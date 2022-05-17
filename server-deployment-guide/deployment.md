@@ -57,7 +57,7 @@ install virtualenv
 `sudo -H pip3 install virtualenv`  
 
 
-update timezone
+update timezone  
 `sudo dpkg-reconfigure tzdata - set timezone`
 
 

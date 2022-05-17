@@ -57,6 +57,10 @@ install virtualenv
 `sudo -H pip3 install virtualenv`  
 
 
+update timezone
+`sudo dpkg-reconfigure tzdata - set timezone`
+
+
 
 #### Deploying Django Project Cheat Sheet
 
